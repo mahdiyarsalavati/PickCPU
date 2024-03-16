@@ -1,3 +1,5 @@
+
+
 # PickCPU
 
 PickCPU is a web tool that helps users find the ideal CPU for their needs. 
@@ -12,6 +14,16 @@ Once the user answers all the questions, PickCPU processes these responses. It c
 
 If a CPU model that matches the user's needs and fits within their budget is found, PickCPU recommends this model to the user. If no perfect match is found within the budget, PickCPU suggests close alternatives that are slightly over the budget.
 
-To use PickCPU, users simply need to navigate to the index page and start answering the questions. Their ideal CPU is just a few clicks away!
-
 <img src="Homepage.png"/>
+
+## How to Use
+
+You can use PickCPU in two ways:
+
+1. **Online:** Visit pickcpu.ir to use the tool online.
+2. **Locally:** If you want to run it locally, follow these steps:
+    - Install XAMPP.
+    - Place all the release files in the `XAMPP/htdocs` directory.
+    - Go to `localhost` in your web browser and find the project.
+
+Remember, the goal of a README is to provide a clear and concise overview of your project and explain how it works. It should be easy to understand for both new users and contributors. Happy coding! 👩‍💻
