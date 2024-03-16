@@ -1,26 +1,26 @@
-# PickCPU
+# **PickCPU: Your Personal CPU Advisor**
 
-PickCPU is a web tool that helps users find the ideal CPU for their needs. 
+**PickCPU** is a user-friendly web tool designed to guide you in finding the perfect CPU that fits your specific needs and budget. 
 
-<img src="Resultpage.png"/>
+!Result Page
 
-## How It Works
+## **Discover How PickCPU Works**
 
-PickCPU works by asking users a series of questions about their computing needs. These questions cover various aspects such as the type of tasks they perform, their budget, and their performance requirements.
+PickCPU simplifies your search by asking a series of questions tailored to understand your computing requirements. These inquiries delve into various aspects, including the nature of tasks you frequently perform, your budget, and your performance expectations.
 
-Once the user answers all the questions, PickCPU processes these responses. It compares the user's needs with the features of various CPU models. The comparison is done using a similarity calculation, which takes into account the importance of each feature.
+After gathering your responses, PickCPU swings into action, processing your answers and comparing them against the features of numerous CPU models. This comparison employs a sophisticated similarity calculation that considers the significance of each feature.
 
-If a CPU model that matches the user's needs and fits within their budget is found, PickCPU recommends this model to the user. If no perfect match is found within the budget, PickCPU suggests close alternatives that are slightly over the budget.
+Upon finding a CPU model that aligns with your needs and falls within your budget, PickCPU presents this model as a recommendation. If a perfect match isn't found within your budget, don't worry! PickCPU will suggest closely matching alternatives that slightly exceed your budget.
 
-<img src="Homepage.png"/>
+!Homepage
 
-## How to Use
+## **How to Utilize PickCPU**
 
-You can use PickCPU in two ways:
+You have two convenient ways to use PickCPU:
 
-1. **Online:** Visit pickcpu.ir to use the tool online.
-2. **Locally:** If you want to run it locally, follow these steps:
+1. **Online:** Simply visit pickcpu.ir to use the tool online.
+2. **Locally:** Prefer to run it on your own machine? Follow these steps:
     - Install XAMPP.
     - Place all the release files in the `XAMPP/htdocs` directory.
-    - Go to `localhost` in your web browser and find the project.
+    - Open your web browser and navigate to `localhost` to find the project.
 
