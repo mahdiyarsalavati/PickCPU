@@ -2,7 +2,7 @@
 
 PickCPU is a web tool that helps users find the ideal CPU for their needs. 
 
-<img src="Result page.png"/>
+<img src="Result Page.png"/>
 
 ## How It Works
 
