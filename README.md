@@ -26,4 +26,3 @@ You can use PickCPU in two ways:
     - Place all the release files in the `XAMPP/htdocs` directory.
     - Go to `localhost` in your web browser and find the project.
 
-Remember, the goal of a README is to provide a clear and concise overview of your project and explain how it works. It should be easy to understand for both new users and contributors. Happy coding! 👩‍💻
