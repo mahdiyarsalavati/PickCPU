@@ -2,7 +2,7 @@
 
 **PickCPU** is a user-friendly web tool designed to guide you in finding the perfect CPU that fits your specific needs and budget. 
 
-!Result Page
+<img src="Resultpage.png"/>
 
 ## **Discover How PickCPU Works**
 
@@ -12,7 +12,7 @@ After gathering your responses, PickCPU swings into action, processing your answ
 
 Upon finding a CPU model that aligns with your needs and falls within your budget, PickCPU presents this model as a recommendation. If a perfect match isn't found within your budget, don't worry! PickCPU will suggest closely matching alternatives that slightly exceed your budget.
 
-!Homepage
+<img src="Homepage.png"/>
 
 ## **How to Utilize PickCPU**
 
