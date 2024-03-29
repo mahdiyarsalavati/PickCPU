@@ -18,7 +18,7 @@ Upon finding a CPU model that aligns with your needs and falls within your budge
 
 You have two convenient ways to use PickCPU:
 
-1. **Online:** Simply visit pickcpu.ir to use the tool online.
+1. **Online:** Simply visit pickcpu.ir to use the tool online. (TEMPORARY OUT OF SERVICE. working on it)
 2. **Locally:** Prefer to run it on your own machine? Follow these steps:
     - Install XAMPP.
     - Place all the release files in the `XAMPP/htdocs` directory.
